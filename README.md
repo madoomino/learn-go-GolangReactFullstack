@@ -3,7 +3,7 @@
 ## Table of content:
 
 - [Introduction](#intro)
-- [Tech Stack]()
+- [Tech Stack](#tech-stack)
 
 ### Intro
 
